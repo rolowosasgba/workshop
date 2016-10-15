@@ -11,60 +11,31 @@ knitr::opts_chunk$set(echo = TRUE)
 # Build a Poem with commits
 Our project will be done using a sequence of save and commits.
 
+
 ## First Verse 
-Beware the Jabberwock, my son!  
- The jaws that bite, the claws that catch!  
+ 
+
+ "Beware the Jabberwock, my son!  
+  The jaws that bite, the claws that catch!  
 Beware the Jubjub bird, and shun  
   The frumious Bandersnatch!"  
+
 He took his vorpal sword in hand:  
   Long time the manxome foe he sought --  
 So rested he by the Tumtum tree,  
   And stood awhile in thought.  
 
 ## Second Verse
-Two roads diverged in a yellow wood,  
-And sorry I could not travel both  
-And be one traveler, long I stood  
-And looked down one as far as I could  
-To where it bent in the undergrowth;  
+ 
+<Put the first two verses of The Road Not Taken by Robert Frost here>
+ 
 
-Then took the other, as just as fair,  
-And having perhaps the better claim,  
-Because it was grassy and wanted wear;  
-Though as for that the passing there  
-Had worn them really about the same,  
+## Third Verse
+ 
 
-
-## Third Verse   
-
-"The sun was shining on the sea,   
-   Shining with all his might:     
-He did his very best to make   
-   The billows smooth and bright —   
-And this was odd, because it was   
-      The middle of the night.   
-
-The moon was shining sulkily,   
-      Because she thought the sun   
-Had got no business to be there   
-      After the day was done —   
-"It's very rude of him," she said,   
-      "To come and spoil the fun."   
+<Put the first two verses of The Walrus and the Carpenter here>
+ 
 
 ## Last Verse
-
-Who sat and watched my infant head  
-When sleeping on my cradle bed,  
-And tears of sweet affection shed?  
-My Mother.  
-
-
-When pain and sickness made me cry,  
-Who gazed upon my heavy eye,  
-And wept for fear that I should die?  
-My Mother.  
-
-Who taught my infant lips to pray  
-And love God’s holy book and day,  
-And walk in wisdom’s pleasant way?  
-My Mother.  
+ 
+<Put a short poem of your choice 8-20 lines,here>
